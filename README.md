@@ -1,8 +1,9 @@
 <div align="center">
-   <img src="icon.gif" width="450" alt="wide-2" />
+   <img width="256" height="256" alt="favicon" src="https://github.com/user-attachments/assets/47027801-38bc-44fd-9799-4b40587591e3" />
+
 </div>
 
-# 🪄 دانلودر یوتیوب ( نسخه ی ۲ )
+# 🪄 دانلود از یوتیوب با نت ملی ( نسخه ۴ )
 با این پروژه ی جادویی شما میتوانید هر نوع ویدیو یوتیوب را به ریپازیتوری خود بصورت دائمی انتقال دهید و هر وقت نیاز داشتید آنرا دانلود کنید.
 
 - ✅ ذخیره سازی اتوماتیک بدون نیاز به کار خاصی 
@@ -22,13 +23,6 @@
 در صورت اینکه به گیتهاب دسترسی نداشته باشید شما میتوانید از ربات پیام رسان بله برای دانلود ویدیوهای یوتیوب استفاده کنید توجه کنید که ربات بله و این ورک فلو دو پروژه کاملا جدا از هم هستند ولی در صورت قطعی گیتهاب ، پیام رسان بله همچنان در دسترس است برای استارت ربات بله به لینک زیر مراجعه کنید : 
 
 https://ble.ir/ourtubebot
-
-
-## 🔑کد فعالسازی
-برای فعالسازی این پروژه شما نیاز به یک کد فعالسازی مخصوص این پروژه دارید. بعد از یکبار وارد کردن کد و فعال شدن بصورت دائمی فعال میشود. کد را از لینک زیر تهیه کنید:
-
-https://pay.avasam.ir/link/769604
-
 
 ## ⚙️ آموزش نصب 
 - ابتدا باید اکانت گیتهاب داشته باشید اگر ندارید از راهنمایی پایین همین صفحه استفاده کنید.
@@ -55,6 +49,8 @@ https://pay.avasam.ir/link/769604
 - سپس دوباره sync fork را بزنید اگر گزینه ی Discard commits بود آنرا بزنید.
 
 
+## 🛢️ جلوگیری از مشکلات مخزن 
+هر بار بعد از دانلود یکبار ورک فلو به اسم تمیزسازی مخزن را اجرا کنید . این کار باعث جلوگیری از انباشت فایل های دانلود و حذف شده در تاریخچه ی ریپازیتوری شما میشود و از مشکلات بعدی برای اکانت گیتهاب یا ریپازیتوری شما جلوگیری میکند
 
 ## ❓ حل مشکل ساختن یا بازیابی اکانت گیتهاب
 
@@ -70,19 +66,23 @@ https://pay.avasam.ir/link/769604
 
 ## 🔧 پروژه های دیگر مشابه
 
--  دانلودر گیتهابی برای دانلود کردن هر نوع فایلی و منتقل کردن آن به داخل گیتهاب : 
+- ✅ دانلودر فایل با لینک مستقیم :‌
 
-🔗 https://github.com/nikzad-avasam/downloader
+🔗 https://github.com/nikzad-avasam/UDL-3
 
-- دانلودر یوتیوبی به گیتهاب 
+- ✅ دانلود از گوگل درایو با نت ملی :
 
-🔗 https://github.com/nikzad-avasam/youtube-dl
+🔗 https://github.com/nikzad-avasam/GD
 
-- کانال پیام رسان بله برای آموزش های بیشتر 
+- ✅ دانلود فایل های درون تلگرام با نت ملی :
+
+🔗 https://github.com/nikzad-avasam/TG-dl
+
+- ✅ کانال پیام رسان بله برای دریافت اطلاعیه ها و بروزرسانی های جدید :‌
 
 🔗 https://ble.ir/avasam_edu
 
-- ویدیو آموزش استفاده از این ابزار 
+- ویدیو آموزش استفاده از این ابزار :
 
 🔗 https://avasam.ir/post/youtube-downloader-by-github
 
@@ -96,18 +96,6 @@ https://pay.avasam.ir/link/769604
 
 - شماره تماس : 09354887344
 - آیدی پشتیبانی در پیام رسان های ایرانی :‌ @ask_here
-- وب سایت : avasam.ir 
+- وب سایت : https://avasam.ir
 
-
-
-
-
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded videos** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store videos on GitHub's infrastructure
-> - All video formats (`.mp4`, `.webm`, `.mkv`, etc.) are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
+- 
